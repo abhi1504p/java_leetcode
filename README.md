@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhi1504p/java_leetcode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/abhi1504p/java_leetcode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/abhi1504p/java_leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
