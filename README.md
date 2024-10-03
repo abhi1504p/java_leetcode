@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi1504p/java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/abhi1504p/java_leetcode/tree/master/0806-domino-and-tromino-tiling) |
 <!---LeetCode Topics End-->
