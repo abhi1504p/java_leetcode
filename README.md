@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhi1504p/java_leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhi1504p/java_leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -52,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/abhi1504p/java_leetcode/tree/master/0806-domino-and-tromino-tiling) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
