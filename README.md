@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhi1504p/java_leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhi1504p/java_leetcode/tree/master/0189-rotate-array) |
+| [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhi1504p/java_leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
