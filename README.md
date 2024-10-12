@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhi1504p/java_leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhi1504p/java_leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/abhi1504p/java_leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
