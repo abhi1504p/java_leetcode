@@ -3,7 +3,7 @@ class Solution {
         int l=nums.length;
         int start=0;
         int end=l-1;
-        int g=0;
+   
         int mid=0;
         if (target>nums[end]){
             return end+1;
