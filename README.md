@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhi1504p/java_leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abhi1504p/java_leetcode/tree/master/0812-rotate-string) |
+| [2580-circular-sentence](https://github.com/abhi1504p/java_leetcode/tree/master/2580-circular-sentence) |
 ## Simulation
 |  |
 | ------- |
