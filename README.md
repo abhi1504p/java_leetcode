@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abhi1504p/java_leetcode/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/abhi1504p/java_leetcode/tree/master/2580-circular-sentence) |
+| [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [3429-special-array-i](https://github.com/abhi1504p/java_leetcode/tree/master/3429-special-array-i) |
+| [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
 | ------- |
