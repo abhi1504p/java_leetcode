@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/abhi1504p/java_leetcode/tree/master/3429-special-array-i) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Two Pointers
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
