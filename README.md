@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi1504p/java_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi1504p/java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/abhi1504p/java_leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhi1504p/java_leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhi1504p/java_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi1504p/java_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhi1504p/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [1666-make-the-string-great](https://github.com/abhi1504p/java_leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/abhi1504p/java_leetcode/tree/master/2128-reverse-prefix-of-word) |
