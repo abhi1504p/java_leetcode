@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/abhi1504p/java_leetcode/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0886-score-of-parentheses) |
 | [1651-shuffle-string](https://github.com/abhi1504p/java_leetcode/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/abhi1504p/java_leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhi1504p/java_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0886-score-of-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0886-score-of-parentheses) |
 | [1666-make-the-string-great](https://github.com/abhi1504p/java_leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/abhi1504p/java_leetcode/tree/master/2128-reverse-prefix-of-word) |
