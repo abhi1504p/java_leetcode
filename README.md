@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/abhi1504p/java_leetcode/tree/master/1651-shuffle-string) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/abhi1504p/java_leetcode/tree/master/3429-special-array-i) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
