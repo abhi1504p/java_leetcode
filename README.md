@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
+| [0503-next-greater-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/abhi1504p/java_leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/abhi1504p/java_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0886-score-of-parentheses) |
 | [1666-make-the-string-great](https://github.com/abhi1504p/java_leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi1504p/java_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
