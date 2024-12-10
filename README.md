@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0890-lemonade-change](https://github.com/abhi1504p/java_leetcode/tree/master/0890-lemonade-change) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/abhi1504p/java_leetcode/tree/master/1651-shuffle-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhi1504p/java_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi1504p/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
+| [0890-lemonade-change](https://github.com/abhi1504p/java_leetcode/tree/master/0890-lemonade-change) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Counting Sort
 |  |
