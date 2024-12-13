@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3625-stone-removal-game](https://github.com/abhi1504p/java_leetcode/tree/master/3625-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhi1504p/java_leetcode/tree/master/0043-multiply-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhi1504p/java_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/abhi1504p/java_leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [3625-stone-removal-game](https://github.com/abhi1504p/java_leetcode/tree/master/3625-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
