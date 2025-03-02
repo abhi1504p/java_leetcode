@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/abhi1504p/java_leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/abhi1504p/java_leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/abhi1504p/java_leetcode/tree/master/2868-continuous-subarrays) |
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/abhi1504p/java_leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/abhi1504p/java_leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
