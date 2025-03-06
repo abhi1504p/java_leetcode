@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi1504p/java_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/abhi1504p/java_leetcode/tree/master/2868-continuous-subarrays) |
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/abhi1504p/java_leetcode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/abhi1504p/java_leetcode/tree/master/2868-continuous-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
