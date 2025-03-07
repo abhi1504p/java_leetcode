@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi1504p/java_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/abhi1504p/java_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/abhi1504p/java_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
