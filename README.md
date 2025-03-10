@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhi1504p/java_leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/abhi1504p/java_leetcode/tree/master/3451-string-compression-iii) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhi1504p/java_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/abhi1504p/java_leetcode/tree/master/2868-continuous-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
