@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhi1504p/java_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
+| [3643-zero-array-transformation-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3643-zero-array-transformation-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Memoization
 |  |
 | ------- |
