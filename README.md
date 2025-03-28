@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3625-stone-removal-game](https://github.com/abhi1504p/java_leetcode/tree/master/3625-stone-removal-game) |
+| [3817-maximum-containers-on-a-ship](https://github.com/abhi1504p/java_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
 | ------- |
