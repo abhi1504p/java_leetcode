@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhi1504p/java_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhi1504p/java_leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abhi1504p/java_leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi1504p/java_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhi1504p/java_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhi1504p/java_leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi1504p/java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhi1504p/java_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/abhi1504p/java_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhi1504p/java_leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/abhi1504p/java_leetcode/tree/master/2478-longest-nice-subarray) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhi1504p/java_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhi1504p/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi1504p/java_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhi1504p/java_leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhi1504p/java_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi1504p/java_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhi1504p/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
