@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhi1504p/java_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi1504p/java_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/abhi1504p/java_leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2262-solving-questions-with-brainpower](https://github.com/abhi1504p/java_leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhi1504p/java_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/abhi1504p/java_leetcode/tree/master/2478-longest-nice-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/abhi1504p/java_leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhi1504p/java_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/abhi1504p/java_leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
