@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-lemonade-change](https://github.com/abhi1504p/java_leetcode/tree/master/0890-lemonade-change) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhi1504p/java_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/abhi1504p/java_leetcode/tree/master/1651-shuffle-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhi1504p/java_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/abhi1504p/java_leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi1504p/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhi1504p/java_leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhi1504p/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi1504p/java_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhi1504p/java_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
