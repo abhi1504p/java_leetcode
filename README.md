@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/abhi1504p/java_leetcode/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi1504p/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhi1504p/java_leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -416,10 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhi1504p/java_leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhi1504p/java_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhi1504p/java_leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -434,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhi1504p/java_leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
