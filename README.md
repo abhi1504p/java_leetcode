@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/abhi1504p/java_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/abhi1504p/java_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhi1504p/java_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhi1504p/java_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/abhi1504p/java_leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3625-stone-removal-game](https://github.com/abhi1504p/java_leetcode/tree/master/3625-stone-removal-game) |
 | [3817-maximum-containers-on-a-ship](https://github.com/abhi1504p/java_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhi1504p/java_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-report-spam-message](https://github.com/abhi1504p/java_leetcode/tree/master/3541-report-spam-message) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhi1504p/java_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhi1504p/java_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhi1504p/java_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -472,9 +474,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhi1504p/java_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhi1504p/java_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhi1504p/java_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/abhi1504p/java_leetcode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/abhi1504p/java_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
