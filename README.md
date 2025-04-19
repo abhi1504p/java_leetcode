@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhi1504p/java_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/abhi1504p/java_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/abhi1504p/java_leetcode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/abhi1504p/java_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/abhi1504p/java_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/abhi1504p/java_leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/abhi1504p/java_leetcode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/abhi1504p/java_leetcode/tree/master/2868-continuous-subarrays) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhi1504p/java_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/abhi1504p/java_leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhi1504p/java_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhi1504p/java_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhi1504p/java_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/abhi1504p/java_leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhi1504p/java_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2845-find-the-value-of-the-partition](https://github.com/abhi1504p/java_leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhi1504p/java_leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/abhi1504p/java_leetcode/tree/master/2892-check-if-array-is-good) |
