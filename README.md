@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/abhi1504p/java_leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/abhi1504p/java_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi1504p/java_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0797-rabbits-in-forest](https://github.com/abhi1504p/java_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/abhi1504p/java_leetcode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhi1504p/java_leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhi1504p/java_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0797-rabbits-in-forest](https://github.com/abhi1504p/java_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/abhi1504p/java_leetcode/tree/master/0890-lemonade-change) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhi1504p/java_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1395-minimum-time-visiting-all-points](https://github.com/abhi1504p/java_leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhi1504p/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/abhi1504p/java_leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/abhi1504p/java_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi1504p/java_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi1504p/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhi1504p/java_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhi1504p/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/abhi1504p/java_leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/abhi1504p/java_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/abhi1504p/java_leetcode/tree/master/0890-lemonade-change) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/abhi1504p/java_leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/abhi1504p/java_leetcode/tree/master/2681-put-marbles-in-bags) |
