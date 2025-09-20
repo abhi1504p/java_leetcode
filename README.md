@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/abhi1504p/java_leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/abhi1504p/java_leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/abhi1504p/java_leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/abhi1504p/java_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhi1504p/java_leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi1504p/java_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhi1504p/java_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhi1504p/java_leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhi1504p/java_leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/abhi1504p/java_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhi1504p/java_leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhi1504p/java_leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi1504p/java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
