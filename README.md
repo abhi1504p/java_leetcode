@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhi1504p/java_leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/abhi1504p/java_leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhi1504p/java_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhi1504p/java_leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/abhi1504p/java_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi1504p/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi1504p/java_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhi1504p/java_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/abhi1504p/java_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhi1504p/java_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhi1504p/java_leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/abhi1504p/java_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi1504p/java_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/abhi1504p/java_leetcode/tree/master/0368-largest-divisible-subset) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi1504p/java_leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/abhi1504p/java_leetcode/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhi1504p/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/abhi1504p/java_leetcode/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/abhi1504p/java_leetcode/tree/master/0768-partition-labels) |
